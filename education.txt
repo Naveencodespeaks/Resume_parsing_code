@@ -1,0 +1,40 @@
+CSE
+computer science
+B.TECH
+B-Tech
+EEE
+Bachelor of Technology
+Bachelor of Science in Computer Science
+Master of Science in Electrical Engineering
+Bachelor of Arts in Economics
+Doctor of Medicine (MD)
+Bachelor of Business Administration (BBA)
+Master of Arts in Psychology
+Bachelor of Engineering in Mechanical Engineering
+Juris Doctor (JD)
+Bachelor of Science in Nursing (BSN)
+Doctor of Philosophy (PhD) in Physics
+Bachelor of Fine Arts in Graphic Design
+Master of Public Health (MPH)
+Bachelor of Education (B.Ed)
+Master of Architecture (MArch)
+Bachelor of Science in Information Technology
+Associate of Arts (AA)
+Associate of Science (AS)
+Associate of Applied Science (AAS)
+Bachelor of Technology (BTech)
+Master of Engineering (MEng)
+Bachelor of Business Administration (BBA)
+Master of Arts in English Literature
+Doctor of Pharmacy (PharmD)
+Bachelor of Science in Biomedical Engineering
+Master of Fine Arts (MFA) in Creative Writing
+Bachelor of Science in Environmental Science
+Doctor of Dental Surgery (DDS)
+Bachelor of Laws (LLB)
+Master of Music (MM)
+Bachelor of Commerce (BCom)
+Doctor of Veterinary Medicine (DVM)
+Bachelor of Science in Psychology
+Master of Social Work (MSW)
+Bachelor of Science in Civil Engineering
